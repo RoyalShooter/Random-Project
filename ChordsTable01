@@ -1,0 +1,345 @@
+<div class="container">
+            <table class="table table-striped table-bordered text-center first-col-header first-col-dark headers-center">
+                <thead>
+                    <tr id="MajorKey">
+                        <th>Key</th>
+                        <th>I</th>
+                        <th>ii</th>
+                        <th>iii</th>
+                        <th>IV</th>
+                        <th>V</th>
+                        <th>vi</th>
+                        <th>viiᵒ</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr id="CMajor" class="d-none">
+                        <td>C</td>
+                        <td>C</td>
+                        <td>Dm</td>
+                        <td>Em</td>
+                        <td>F</td>
+                        <td>G</td>
+                        <td class="warning">Am</td>
+                        <td>Bmb5</td>
+                    </tr>
+                    <tr id="C#Major" class="d-none">
+                        <td>C#</td>
+                        <td>C#</td>
+                        <td>D#m</td>
+                        <td>E#m</td>
+                        <td>F#</td>
+                        <td>G#</td>
+                        <td class="warning">A#m</td>
+                        <td>B#mb5</td>
+                    </tr>
+                    <tr id="DbMajor" class="d-none">
+                        <td>Db</td>
+                        <td>Db</td>
+                        <td>Ebm</td>
+                        <td>Fm</td>
+                        <td>Gb</td>
+                        <td>Ab</td>
+                        <td class="warning">Bbm</td>
+                        <td>Cmb5</td>
+                    </tr>
+                    <tr id="DMajor" class="d-none">
+                        <td>D</td>
+                        <td>D</td>
+                        <td>Em</td>
+                        <td>F#m</td>
+                        <td>G</td>
+                        <td>A</td>
+                        <td class="warning">Bm</td>
+                        <td>C#mb5</td>
+                    </tr>
+                    <tr id="EbMajor" class="d-none">
+                        <td>Eb</td>
+                        <td>Eb</td>
+                        <td>Fm</td>
+                        <td>Gm</td>
+                        <td>Ab</td>
+                        <td>Bb</td>
+                        <td class="warning">Cm</td>
+                        <td>Dmb5</td>
+                    </tr>
+                    <tr id="EMajor" class="d-none">
+                        <td>E</td>
+                        <td>E</td>
+                        <td>F#m</td>
+                        <td>G#m</td>
+                        <td>A</td>
+                        <td>B</td>
+                        <td class="warning">C#m</td>
+                        <td>Dmb5</td>
+                    </tr>
+                    <tr id="FMajor" class="d-none">
+                        <td>F</td>
+                        <td>F</td>
+                        <td>Gm</td>
+                        <td>Am</td>
+                        <td>Bb</td>
+                        <td>C</td>
+                        <td class="warning">Dm</td>
+                        <td>Emb5</td>
+                    </tr>
+                    <tr id="F#Major" class="d-none">
+                        <td>F#</td>
+                        <td>F#</td>
+                        <td>G#m</td>
+                        <td>A#m</td>
+                        <td>B</td>
+                        <td>C#</td>
+                        <td class="warning">D#m</td>
+                        <td>E#mb5</td>
+                    </tr>
+                    <tr id="GbMajor" class="d-none">
+                        <td>Gb</td>
+                        <td>Gb</td>
+                        <td>Abm</td>
+                        <td>Bbm</td>
+                        <td>Cb</td>
+                        <td>Db</td>
+                        <td class="warning">Ebm</td>
+                        <td>Fmb5</td>
+                    </tr>
+                    <tr id="GMajor" class="d-none">
+                        <td>G</td>
+                        <td>G</td>
+                        <td>Am</td>
+                        <td>Bm</td>
+                        <td>C</td>
+                        <td>D</td>
+                        <td class="warning">Em</td>
+                        <td>F#mb5</td>
+                    </tr>
+                    <tr id="AbMajor" class="d-none">
+                        <td>Ab</td>
+                        <td>Ab</td>
+                        <td>Bbm</td>
+                        <td>Cm</td>
+                        <td>Db</td>
+                        <td>Ebm</td>
+                        <td class="warning">Fm</td>
+                        <td>Gmb5</td>
+                    </tr>
+                    <tr id="AMajor" class="d-none">
+                        <td>A</td>
+                        <td>A</td>
+                        <td>Bm</td>
+                        <td>C#m</td>
+                        <td>D</td>
+                        <td>E</td>
+                        <td class="warning">F#m</td>
+                        <td>G#mb5</td>
+                    </tr>
+                    <tr id="BbMajor" class="d-none">
+                        <td>Bb</td>
+                        <td>Bb</td>
+                        <td>Cm</td>
+                        <td>Dm</td>
+                        <td>Eb</td>
+                        <td>F</td>
+                        <td class="warning">Gm</td>
+                        <td>Amb5</td>
+                    </tr>
+                    <tr id="BMajor" class="d-none">
+                        <td>B</td>
+                        <td>B</td>
+                        <td>C#</td>
+                        <td>D#</td>
+                        <td>E</td>
+                        <td>F#</td>
+                        <td class="warning">G#m</td>
+                        <td>A#mb5</td>
+                    </tr>
+                </tbody>
+            </table>
+            <table class="table table-striped table-bordered text-center first-col-header first-col-dark headers-center">
+                <thead>
+                    <tr id="MinorKey">
+                        <th>Key</th>
+                        <th>i</th>
+                        <th>iiᵒ</th>
+                        <th>III</th>
+                        <th>iv</th>
+                        <th>v</th>
+                        <th>VI</th>
+                        <th>VII</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr id="Aminor" class="d-none">
+                        <td>Am</td>
+                        <td>Am</td>
+                        <td>Bmb5</td>
+                        <td class="warning">C</td>
+                        <td>Dm</td>
+                        <td>Em</td>
+                        <td>F</td>
+                        <td>G</td>
+                    </tr>
+                    <tr id="A#minor" class="d-none">
+                        <td>A#m</td>
+                        <td>A#m</td>
+                        <td>B#mb5</td>
+                        <td class="warning">C#</td>
+                        <td>D#m</td>
+                        <td>E#m</td>
+                        <td>F#</td>
+                        <td>G#</td>
+                    </tr>
+                    <tr id="Bbminor" class="d-none">
+                        <td>Bbm</td>
+                        <td>Bbm</td>
+                        <td>Cmb5</td>
+                        <td class="warning">Db</td>
+                        <td>Ebm</td>
+                        <td>Fm</td>
+                        <td>Gb</td>
+                        <td>Ab</td>
+                    </tr>
+                    <tr id="Bminor" class="d-none">
+                        <td>Bm</td>
+                        <td>Bm</td>
+                        <td>C#mb5</td>
+                        <td class="warning">D</td>
+                        <td>Em</td>
+                        <td>F#m</td>
+                        <td>G</td>
+                        <td>A</td>
+                    </tr>
+                    <tr id="Cminor" class="d-none">
+                        <td>Cm</td>
+                        <td>Cm</td>
+                        <td>Dmb5</td>
+                        <td class="warning">Eb</td>
+                        <td>Fm</td>
+                        <td>Gm</td>
+                        <td>Ab</td>
+                        <td>Bb</td>
+                    </tr>
+                    <tr id="C#minor" class="d-none">
+                        <td>C#m</td>
+                        <td>C#m</td>
+                        <td>Dmb5</td>
+                        <td class="warning">E</td>
+                        <td>F#m</td>
+                        <td>G#m</td>
+                        <td>A</td>
+                        <td>B</td>
+                    </tr>
+                    <tr id="Dminor" class="d-none">
+                        <td>Dm</td>
+                        <td>Dm</td>
+                        <td>Emb5</td>
+                        <td class="warning">F</td>
+                        <td>Gm</td>
+                        <td>Am</td>
+                        <td>Bb</td>
+                        <td>C</td>
+                    </tr>
+                    <tr id="D#minor" class="d-none">
+                        <td>D#m</td>
+                        <td>D#m</td>
+                        <td>E#mb5</td>
+                        <td class="warning">F#</td>
+                        <td>G#m</td>
+                        <td>A#m</td>
+                        <td>B</td>
+                        <td>C#</td>
+                    </tr>
+                    <tr id="Ebminor" class="d-none">
+                        <td>Ebm</td>
+                        <td>Ebm</td>
+                        <td>Fmb5</td>
+                        <td class="warning">Gb</td>
+                        <td>Abm</td>
+                        <td>Bbm</td>
+                        <td>Cb</td>
+                        <td>Db</td>
+                    </tr>
+                    <tr id="Eminor" class="d-none">
+                        <td>Em</td>
+                        <td>Em</td>
+                        <td>F#mb5</td>
+                        <td class="warning">G</td>
+                        <td>Am</td>
+                        <td>Bm</td>
+                        <td>C</td>
+                        <td>D</td>
+                    </tr>
+                    <tr id="Fminor" class="d-none">
+                        <td>Fm</td>
+                        <td>Fm</td>
+                        <td>Gmb5</td>
+                        <td class="warning">Ab</td>
+                        <td>Bbm</td>
+                        <td>Cm</td>
+                        <td>Db</td>
+                        <td>Ebm</td>
+                    </tr>
+                    <tr id="F#minor" class="d-none">
+                        <td>F#m</td>
+                        <td>F#m</td>
+                        <td>G#mb5</td>
+                        <td class="warning">A</td>
+                        <td>Bm</td>
+                        <td>C#m</td>
+                        <td>D</td>
+                        <td>E</td>
+                    </tr>
+                    <tr id="Gminor" class="d-none">
+                        <td>Gm</td>
+                        <td>Gm</td>
+                        <td>Amb5</td>
+                        <td class="warning">Bb</td>
+                        <td>Cm</td>
+                        <td>Dm</td>
+                        <td>Eb</td>
+                        <td>F</td>
+                    </tr>
+                    <tr id="G#minor" class="d-none">
+                        <td>G#m</td>
+                        <td>G#m</td>
+                        <td>A#mb5</td>
+                        <td class="warning">B</td>
+                        <td>C#</td>
+                        <td>D#</td>
+                        <td>E</td>
+                        <td>F#</td>
+                    </tr>
+                </tbody>
+            </table>
+            <select class="form-control" selected="~~~~~Pick A Key~~~~~"> 
+                <option>CMajor</option>                 
+                <option>C#Major</option>                 
+                <option>DbMajor</option>                 
+                <option>DMajor</option>
+                <option>EbMajor</option>                 
+                <option>EMajor</option>
+                <option>FMajor</option>
+                <option>F#Major</option>
+                <option>GbMajor</option>
+                <option>GMajor</option>
+                <option>AbMajor</option>
+                <option>AMajor</option>
+                <option>BbMajor</option>
+                <option>BMajor</option>
+                <option selected="selected" disabled>~~~~~Pick A Key~~~~~</option>
+                <option>Aminor</option>
+                <option>A#minor</option>
+                <option>Bbminor</option>
+                <option>Bminor</option>
+                <option>Cminor</option>
+                <option>C#minor</option>
+                <option>Dminor</option>
+                <option>D#minor</option>
+                <option>Ebminor</option>
+                <option>Eminor</option>
+                <option>Fminor</option>
+                <option>F#minor</option>
+                <option>Gminor</option>
+                <option>G#minor</option>
+            </select>
+        </div>
